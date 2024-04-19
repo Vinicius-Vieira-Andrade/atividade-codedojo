@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Taul2N0DE78SFRHpJ1hk26KhYxXvg6Hb0McSA6Ms57Q=",
+  "Source": "apiaudio",
+  "BasePath": "_content/apiaudio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "apiaudio\\wwwroot",
+      "Source": "apiaudio",
+      "ContentRoot": "C:\\Users\\53685550837\\Desktop\\apiaudio\\wwwroot\\",
+      "BasePath": "_content/apiaudio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\53685550837\\Desktop\\apiaudio\\wwwroot\\audios\\20240418_143941.wav",
+      "SourceId": "apiaudio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\53685550837\\Desktop\\apiaudio\\wwwroot\\",
+      "BasePath": "_content/apiaudio",
+      "RelativePath": "audios/20240418_143941.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audios\\20240418_143941.wav"
+    },
+    {
+      "Identity": "C:\\Users\\53685550837\\Desktop\\apiaudio\\wwwroot\\audios\\347cfa43-aede-4194-a1a4-c837cc99b2d4.wav",
+      "SourceId": "apiaudio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\53685550837\\Desktop\\apiaudio\\wwwroot\\",
+      "BasePath": "_content/apiaudio",
+      "RelativePath": "audios/347cfa43-aede-4194-a1a4-c837cc99b2d4.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audios\\347cfa43-aede-4194-a1a4-c837cc99b2d4.wav"
+    }
+  ]
+}
